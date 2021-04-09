@@ -1,0 +1,4 @@
+def mutate_string(string, position, character):
+    c= string[:position]+character+string[position+1:]
+    return c
+# contributed by Ravi Kumar
