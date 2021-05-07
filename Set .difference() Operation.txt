@@ -1,0 +1,6 @@
+c , a =input() ,set(input().split())
+c , b =input() ,set(input().split())
+print(len(a.difference(b)))
+
+
+# contributed by Ravi Kumar
